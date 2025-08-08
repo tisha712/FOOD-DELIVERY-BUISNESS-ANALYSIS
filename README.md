@@ -50,5 +50,5 @@ Author: Tisha Raj
 
 
 
-If you want, I can now prepare the *queries.sql* file so you have all the SQL code for these KPIs ready to upload with your GitHub project. That will make your repo look complete and professional.
+
 
