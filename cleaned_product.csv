@@ -1,0 +1,13 @@
+id,name,price,description,cost
+1,Cake,50.0,2 lb honey cake,20.0
+2,Crepes,15.0,10 crepes with meat,8.0
+3,Sweet Crepes,15.0,10 crepes with cheese,8.0
+4,Dumplings 1,25.0,Dumplings with pork,10.0
+5,Dumplings 2,25.0,Dumplings with chicken,10.0
+6,Cheesecake,20.0,10 Cheescakes,9.0
+7,Cheese pie,30.0,2 lb cheese pie,13.0
+8,Potato pie,20.0,2 lb potato pie,9.0
+9,Crepes 0,15.0,15 crepes without filling,6.0
+10,Pastry 1,20.0,2 lb potato pastry,7.0
+11,Pastry 2,20.0,2 lb cabbage pastry,9.0
+12,Vegetable 1,25.0,10 vegetable dish,12.0
